@@ -26,3 +26,12 @@
 - 389 -- LDAP
 - 443 -- SMB
 - 3389 -- RDP
+
+# what is Nmap?
+- Free, Powerful Network Discovery tool
+  - IP/Host/Port Scanning
+  - Services discovery
+  - OS detection
+  - Version detection
+  - Scriptable interaction with taragets(NSE)
+  - info on targets,including reverse DNS names,device types and MAC adresses
